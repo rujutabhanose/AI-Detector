@@ -1,6 +1,8 @@
 # AI Slop Detector
 An end-to-end implementation of an AI writing detector
 
+https://ai-detector-9rnzye9bybttzqzgjg4crw.streamlit.app
+
 ## Data
 To train our classifier, we needed many examples of human-written text and AI-generated text.
 
